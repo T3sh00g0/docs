@@ -49,6 +49,6 @@
     "playground": {
       "display": "interactive"
     },
-    "openapi": "/json.json"
+    "openapi": "https://api.b1nar.app/documentation/json.json"
   }
 }
