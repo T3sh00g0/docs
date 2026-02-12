@@ -16,6 +16,7 @@
         "tabs": [
           {
             "tab": "API",
+            "openapi": "https://api.b1nar.app/documentation/json.json",
             "menu": [
               {
                 "item": "Untitled Item",
@@ -59,7 +60,6 @@
   "api": {
     "playground": {
       "display": "interactive"
-    },
-    "openapi": "https://api.b1nar.app/documentation/json.json"
+    }
   }
 }
