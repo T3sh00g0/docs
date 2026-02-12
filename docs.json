@@ -12,7 +12,18 @@
     "languages": [
       {
         "language": "pt-BR",
-        "default": true
+        "default": true,
+        "tabs": [
+          {
+            "tab": "API",
+            "menu": [
+              {
+                "item": "Untitled Item",
+                "openapi": "json.json"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
